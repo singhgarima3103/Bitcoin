@@ -1,0 +1,38 @@
+[INFO] [09/18/2014 18:09:43.530] [main] [Remoting] Starting remoting
+[INFO] [09/18/2014 18:09:43.705] [main] [Remoting] Remoting started; listening on addresses :[akka.tcp://MasterSystem@128.227.248.175:2552]
+[INFO] [09/18/2014 18:09:43.709] [main] [Remoting] Remoting now listens on addresses: [akka.tcp://MasterSystem@128.227.248.175:2552]
+bitcoin:balajiiyer7535801653600	hash:000002616dc4fd6b2c222f0889dcc83f43d5bca6fbaa67647f68a2e9915adae5
+bitcoin:balajiiyer7548866553682	hash:0000027f8f0e0412ce04f96f023e999cce53abc1cede5fb71b7fb0680db3d05e
+bitcoin:balajiiyer7550085498401	hash:00000f70e545203dbabfac5ecc2b88d1b6e7bd22a48b75d8adaa1408f9ae07a5
+bitcoin:balajiiyer7555299152150	hash:00000dfb4600743337f339db8c5efc0ca11d38f5977815bcc98efcb3cf38867b
+bitcoin:balajiiyer7555787925545	hash:00000832e3a2f764976669b3af863b613af6450c62e6d8fed9969fd14e0305ee
+bitcoin:balajiiyer7564366220424	hash:00000c20e8b7531eb864154865b5faa543395c00e493af8460c90c725cee80bd
+bitcoin:balajiiyer7587458455554	hash:000003a5ff7b6ac3cbe9b8ec188b1c8a32e35e83d91011e43340d2e5dc1989f3
+bitcoin:balajiiyer7606067324106	hash:00000a73fa98879dc15230013cdf31198863626cfe379bb9d2e554268eb7a3ad
+bitcoin:balajiiyer7608190511414	hash:000009de26f7a4071b96cec32c7bd823981bfbcfc73e45a33ce35fcbfd27ed4e
+bitcoin:balajiiyer7614660535504	hash:000002f2a70f4742f726c884db095eadd60548ed55a898a25edbf476676f77dd
+bitcoin:balajiiyer7625464451621	hash:000006c8afe8d74331f749da310a29df82d2858a7c44f74554ab9db232d5e598
+bitcoin:balajiiyer7635879944701	hash:0000073bf269417c4bda3c2e8a0225897d112fb06bd314d617499a1b10dae681
+bitcoin:balajiiyer7641902643934	hash:00000e961c0086671becf5acc1dcdcc67512ddbe5387d7093c1f705cfcde55b2
+bitcoin:balajiiyer7648376900361	hash:000009228fe92a4b9e2ff6a18e376d10531d17e16b858dbfb36a533c7e9f1fb2
+bitcoin:balajiiyer7649642561766	hash:00000003c13e79ff9e43aa620e3c63851a807063b1a5d97220822b4f20dde7c3
+bitcoin:balajiiyer7650911569652	hash:000006521a499d1b0664cf1728e6348c325427a48521fe46e40dcfe5d759cd14
+bitcoin:balajiiyer7673262416153	hash:00000895677a0f806ea1eb6823d951157d9c35c944624b613d14c7c7f1e8f4ae
+bitcoin:balajiiyer7685480992006	hash:00000019ccb51ae698c2a26a23adab84701ba6515ba209858913d199a3aca2cb
+bitcoin:balajiiyer7693345295598	hash:00000833c7ad44ef34b39013116cebdf2864bf035d83086e861afdb00f0f7665
+bitcoin:balajiiyer7694878329853	hash:000007f5b3a469ca8a10c325657a95183f92262560eb3b716ed5cca08ac8f3f9
+bitcoin:balajiiyer7727640227721	hash:00000a78beea9cb103ed756329622f6ff663313c1de9e5779f2c37957a5f52fa
+bitcoin:balajiiyer7728378867656	hash:000004227c1f7e467b6be1999ae45b624cccf663a77ef8c1cba514f1bb553a38
+bitcoin:balajiiyer7728577253668	hash:0000016f207f7f74f3f330287495b1581f9da3933e8bf5bba283f408912bd8b7
+bitcoin:balajiiyer7729747338389	hash:000000e83f721384f4563751babc7a50c677f62d0ac7f8b7a135740d70312c00
+bitcoin:balajiiyer7758257380283	hash:00000c25ac80ad658b7c485707b65fbb7da7788e03e8a4454ef8c50576b0a0d6
+bitcoin:balajiiyer7763359910226	hash:0000022ea125ae7391464434173bbb539dd9bedde8af9623dc4ec235c146274d
+bitcoin:balajiiyer7804511616107	hash:000001fd161f2a751ec4c2d32c23c2ce01e3099374e38ed80cd9794f72496d89
+actorCount is 8
+Total Number of bitcoins mined is 27
+Total number of messages processed is 37000000
+Throughtput is 123333.333 messages/sec
+[INFO] [09/18/2014 18:14:47.319] [MasterSystem-akka.remote.default-remote-dispatcher-6] [akka.tcp://MasterSystem@128.227.248.175:2552/system/remoting-terminator] Shutting down remote daemon.
+[INFO] [09/18/2014 18:14:47.321] [MasterSystem-akka.remote.default-remote-dispatcher-6] [akka.tcp://MasterSystem@128.227.248.175:2552/system/remoting-terminator] Remote daemon shut down; proceeding with flushing remote transports.
+[INFO] [09/18/2014 18:14:47.359] [ForkJoinPool-3-worker-15] [Remoting] Remoting shut down
+[INFO] [09/18/2014 18:14:47.360] [MasterSystem-akka.remote.default-remote-dispatcher-5] [akka.tcp://MasterSystem@128.227.248.175:2552/system/remoting-terminator] Remoting shut down.
